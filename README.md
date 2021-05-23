@@ -1,1 +1,4 @@
-# Python Codes covering 'Mathematical and Data Science' concepts
+# Python Codes covering the below concepts 
+
+* Data Science
+* Mathematics
